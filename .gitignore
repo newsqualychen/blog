@@ -43,3 +43,6 @@ content/posts/.obsidian/
 .gitmodules.backup
 posts-backup-*.tar.gz
 posts-before-fixit-*.tar.gz
+
+# Obsidian vault settings and workspace
+/.obsidian/

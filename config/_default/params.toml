@@ -12,8 +12,8 @@ tagline = "Responsive Hugo Theme"
 description = "Arberia Theme for Hugo Static Site Generator. Insert here general site description"
 keywords = "Insert keywords"
 [author]
-name = "Vincenzo Antedoro"
-author_resume = "<strong>Vincenzo Antedoro</strong> is the author of Arberia Theme for Hugo. To learn more, visit the <em>About page</em>."
+name = "squaly"
+author_resume = "记录 Linux、家庭服务器、开源软件与日常折腾。"
 
 # Date format. See https://gohugo.io/functions/format/
 dateformat = "Monday, January 2, 2006"

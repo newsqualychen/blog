@@ -3,7 +3,8 @@ title: hqplayer设置解析
 id: bd98f916-37cf-4be5-9ede-493473a66ced
 date: 2025-09-21 05:44:30
 auther: squaly
-featured_image_preview: Pasted image 2020261023204647.png
+featured_image_preview: Pasted%20image%2020261023204647.png
+featured_image: Pasted%20image%2020261023204647.png
 summary: 1、设置Backend（后端） 如果需要本地播放选择ALSA，如果需要通过网络进行NAA推送播放，则选择Network Audio 2、设置Output mode（音频输出模式） Auto是根据音频本身的格式，输出PCM或者SDM。但如果希望强制音频转换成PCM或者SDM，可以选择下面两项强制输出。
 permalink: /archives/FdvCMgQt
 categories:
@@ -11,7 +12,7 @@ categories:
 tags:
   - hqplayer
 ---
-![](Pasted%20image%2020261023204647.png)
+
 
 1、设置Backend（后端）
 

@@ -3,6 +3,11 @@ baseURL = "https://newsqualychen.github.io/blog/"
 relativeURLs = false
 languageCode = "en-us"
 defaultContentLanguage = "en"
+
+# 中文摘要设置
+hasCJKLanguage = true
+summaryLength = 100
+
 theme = "FixIt"
 
 # 日期格式
